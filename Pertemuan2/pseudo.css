@@ -1,0 +1,17 @@
+.hello:link{
+    color: brown;
+}
+
+.hello:hover{
+    color: aqua;
+    font-family:  'Times New Roman', Times, serif, monospace;
+    font-size: 40px;
+}
+.hello:active{
+    font-style: italic;
+
+}
+
+.hello:visited{
+    color: blueviolet;
+}
